@@ -93,8 +93,7 @@ MsgBox "Done!"
 End Sub
 
 '=======================================================================================
-'the PDF function was not written by me
-'credit to: https://wellsr.com/vba/2017/word/combine-pdfs-with-vba-and-adobe-acrobat/
+'credit for the PDF function to: https://wellsr.com/vba/2017/word/combine-pdfs-with-vba-and-adobe-acrobat/
 
 Private Function MergePDFs(arrFiles() As String, strSaveAs As String) As Boolean
  
